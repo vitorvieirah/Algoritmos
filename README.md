@@ -17,4 +17,4 @@ de V2 e a terceira coluna conterá a soma das duas primeiras colunas da matriz.
 Apresente no final os dois vetores e a matriz.
 
 ## ⚒️ FERRAMENTAS
-Para esse projeto foi utilizado pseudocódigo, conhecido como portugol, mais especificamento do VisualG.
+Para esse projeto foi utilizado pseudocódigo, conhecido como portugol, mais especificamente do VisualG.
