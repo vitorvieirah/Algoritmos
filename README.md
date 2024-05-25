@@ -2,7 +2,7 @@
 # Algoritmos
 
 ## #️⃣ SOBRE
-Este projeto é refente a uma atividade da faculdade, da matéria de algoritmos, que tinha como objetivo resolver um determinado exercício e depois gravar um vídeo explicando a resolução
+Este projeto é referente a uma atividade da faculdade, da matéria de algoritmos, que tinha como objetivo resolver um determinado exercício e depois gravar um vídeo explicando a resolução
 
 Clique <a href="https://youtu.be/xbVKdhldU5U?si=kjLqRKVf_ngHZH00">aqui</a> para acessar o vídeo.
 
